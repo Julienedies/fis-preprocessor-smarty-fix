@@ -4,7 +4,7 @@
     "version" : "0.0.1",
     "author" : "ulien",
     "homepage" : "",
-    "keywords": [ "fis" J],
+    "keywords": [ "fis" ],
     "main" : "index.js",
     "repository": {
         "type": "git",
